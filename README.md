@@ -38,6 +38,7 @@ The boundaries are then updated to move inward, and the process repeats until al
 - Handles edge cases such as single-row or single-column matrices.
 
 ## How to Run
+
 1. **Prerequisites**: A C++ compiler (e.g., g++).
 2. **Clone the repository**:
    ```bash
