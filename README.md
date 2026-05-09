@@ -5,6 +5,8 @@ This C++ program implements a solution to traverse a 2D matrix in a spiral order
 
 This problem is commonly asked in coding interviews to test understanding of 2D array manipulation and boundary handling.
 
+---
+
 ## Problem Statement
 Given an `m x n` matrix, return all elements of the matrix in spiral order.
 
