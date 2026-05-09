@@ -24,6 +24,8 @@ matrix = [[1,2,3,4],
 [1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10]
 ```
 
+---
+
 ## Solution
 The solution is implemented in the file `twoD_vectors_spiral_matrix.cpp`. It uses a while loop to traverse the matrix layer by layer, maintaining four pointers (`stRow`, `endRow`, `stCol`, `endCol`) to track the boundaries of the current layer. The algorithm processes the matrix in the following order:
 1. Traverse the top row from left to right.
