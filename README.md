@@ -35,6 +35,7 @@ The solution is implemented in the file `twoD_vectors_spiral_matrix.cpp`. It use
 
 The boundaries are then updated to move inward, and the process repeats until all elements are visited.
 
+---
 
 ### Key Features
 - **Time Complexity**: O(m * n), where `m` is the number of rows and `n` is the number of columns.
