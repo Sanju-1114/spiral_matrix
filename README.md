@@ -72,6 +72,8 @@ The boundaries are then updated to move inward, and the process repeats until al
 - `twoD_vectors_spiral_matrix.cpp`: The main C++ program containing the spiral order traversal logic and a test case.
 - `README.md`: This file, providing an overview and instructions.
 
+---
+
 ## Notes
 - The code includes checks to avoid duplicate traversal in cases where the matrix has an odd number of rows or columns.
 - The solution is optimized for readability and efficiency, making it suitable for both learning and interview preparation.
