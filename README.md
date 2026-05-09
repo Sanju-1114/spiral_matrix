@@ -42,6 +42,8 @@ The boundaries are then updated to move inward, and the process repeats until al
 - **Space Complexity**: O(1) excluding the output vector, as only a constant amount of extra space is used.
 - Handles edge cases such as single-row or single-column matrices.
 
+---
+
 ## How to Run
 
 1. **Prerequisites**: A C++ compiler (e.g., g++).
