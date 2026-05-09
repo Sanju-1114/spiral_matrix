@@ -66,6 +66,8 @@ The boundaries are then updated to move inward, and the process repeats until al
    Spiral matrix : 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
    ```
 
+---
+
 ## File Structure
 - `twoD_vectors_spiral_matrix.cpp`: The main C++ program containing the spiral order traversal logic and a test case.
 - `README.md`: This file, providing an overview and instructions.
